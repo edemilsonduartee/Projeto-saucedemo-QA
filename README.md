@@ -50,12 +50,18 @@ Validar as principais funcionalidades do sistema, garantindo o correto funcionam
 
 ---
 
+## BDD (Gherkin)
+Cenários escritos em linguagem Gherkin simulando comportamento do usuário.
+
+---
+
 ## 📁 Estrutura do projeto
 📦 projeto-saucedemo-QA
 ┣ 📂 01-plano-de-teste
 ┣ 📂 02-casos-de-testes
 ┣ 📂 03-relatorio-de-bugs
 ┣ 📂 04-evidencias
+┣ 📂 05-bdd-gherking
 ┗ 📄 README.md
 
 ---
