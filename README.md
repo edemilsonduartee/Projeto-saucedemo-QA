@@ -51,14 +51,12 @@ Validar as principais funcionalidades do sistema, garantindo o correto funcionam
 ---
 
 ## 📁 Estrutura do projeto
-
 📦 projeto-saucedemo-QA
 ┣ 📂 01-plano-de-teste
 ┣ 📂 02-casos-de-testes
 ┣ 📂 03-relatorio-de-bugs
 ┣ 📂 04-evidencias
 ┗ 📄 README.md
-
 
 ---
 
@@ -81,4 +79,4 @@ Estou em transição de carreira para a área de QA (Quality Assurance), focado 
 ---
 
 ## 📬 Contato
-LinkedIn: (https://www.linkedin.com/in/edemilson-gusmao/)
+LinkedIn: (https://www.linkedin.com/in/edemilson-gusmao)
